@@ -13,6 +13,6 @@ var str = string.Join(", ", resultArr);
 var str1 = string.Join(", ", resultArr1);
 var str2 = string.Join(", ", resultArr2);
 
-WriteLine($"Result first = " + str);
+WriteLine("Result first = " + str);
 WriteLine("Result second = " + str1);
 WriteLine("Result third = " + str2);
